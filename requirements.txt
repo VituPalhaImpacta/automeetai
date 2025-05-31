@@ -2,3 +2,4 @@ streamlit
 assemblyai
 openai
 moviepy
+st-annotated-text
